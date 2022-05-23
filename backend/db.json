@@ -1,0 +1,46 @@
+{
+  "employee": [
+    {
+      "name": "nihal",
+      "role": "trainer",
+      "salary": 320000,
+      "email": "nihal@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "hello",
+      "role": "developer",
+      "salary": 400000,
+      "email": "hello@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "vikas",
+      "role": "developer",
+      "salary": 500000,
+      "email": "vikas@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "shashank",
+      "role": "developer",
+      "salary": 50000,
+      "email": "shashank@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "vishnu",
+      "role": "developer",
+      "salary": 600000,
+      "email": "vishnu@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "aa",
+      "role": "aa",
+      "salary": 200,
+      "email": "aa@gmail.com",
+      "id": 5
+    }
+  ]
+}
